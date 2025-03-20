@@ -76,12 +76,10 @@ Les 50 biens les plus rentables sont disponibles dans un Google Sheet exporté.
 
 
 📚 Auteurs
-Aymeric PERRIN
-Vincent VIGNAUD
-Emilie JURQUET
+Aymeric PERRIN / Vincent VIGNAUD / Emilie JURQUET
 
 
-**🛠ï Améliorations futures**
+**🛠 Améliorations futures**
 
 Intégration d'autres plateformes d'annonces.
 
